@@ -1,0 +1,21 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 3
+
+## Media
+
+### Title
+panorama_B829FE75_B359_A27F_41B1_2FC3DBCEAEEA.label = EcoParkBEV
+panorama_B9A5A87E_B356_6E6D_418A_EE5170C1FEB0.label = PlazaCinTeYan
+panorama_B9A604D4_B356_A6BD_41DE_31FE6149C84B.label = Boulevard
+panorama_B9A66D25_B356_E79F_41AB_18C9E5B59BCB.label = MasjidAgungPlaza
+panorama_B9A66F05_B356_A39F_41E0_599136CE96B5.label = MasjidAgung
+panorama_B9A69F40_B356_6395_41C9_FEF0B34A1C75.label = KlentengCinTeYan
+panorama_B9A6B1C4_B356_7E9D_41E5_8045EF284F5C.label = GrandWaterTown
+panorama_B9A789FF_B356_EE6B_41D4_107DEF877D48.label = Gereja
+panorama_B9A79B73_B356_A27B_41D2_41BDD24401FB.label = HajiLane
